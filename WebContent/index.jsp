@@ -51,7 +51,7 @@ filter:alpha(opacity=100); /* For IE8 and earlier */
 	<div id="welcome">
 		<h2 class="title"><a href="#">Welcome to Compare World</a></h2>
 		<div class="entry">
-			This is <strong>Compare World </strong>, a free, fully standards site aims to provide information of your Products designed by <a href="http://www.growyourbusiness.in">Chirag Singla</a>.  you can view and post free classified .  we provide scarce information about your Product.CompareWorld aims not only providing product comparision but also customer satisfaction.... </div></div>
+			This is <strong>Comparee World </strong>, a free, fully standards site aims to provide information of your Products designed by <a href="http://www.growyourbusiness.in">Chirag Singla</a>.  you can view and post free classified .  we provide scarce information about your Product.CompareWorld aims not only providing product comparision but also customer satisfaction.... </div></div>
 	
 	</div>
 	
